@@ -1,0 +1,12 @@
+{
+  "name": "task-electron-firebase",
+  "version": "1.0.0",
+  "description": "task-electron-firebase",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
